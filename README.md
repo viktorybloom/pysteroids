@@ -10,5 +10,12 @@
 
 3 - `pip install -r requirements.txt`
 
+### run
 
-4 - `python3 main.py`
+1 - `python3 main.py`
+
+### play
+
+Control with `w,a,s,d` keys and shoot with `space`.
+
+Big asteroids will break into two medium asteroids when shot, which will also break into two small asteroids when shot. 
